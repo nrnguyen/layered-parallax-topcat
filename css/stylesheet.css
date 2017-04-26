@@ -19,8 +19,6 @@ body {
 .layer {
   background-size: auto;
   background-repeat: no-repeat;
-  width: 100%;
-  height: 800px;
   position: fixed;
   z-index: -1;
 }
@@ -84,6 +82,7 @@ p {
 .layer-5 {
   background-image: url("../images/clouds_low.png");
   background-position: left bottom;
+  width: 100%;
 }
 
 .layer-6 {
