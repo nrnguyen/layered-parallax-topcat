@@ -71,7 +71,8 @@ p {
 
 .layer-3 {
   background-image: url("../images/ilu_man.png");
-  background-position: center center;
+  background-position: center;
+  width: 100%;
 }
 
 .layer-4 {
