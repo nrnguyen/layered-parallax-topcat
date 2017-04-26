@@ -61,8 +61,8 @@ p {
 }
 
 .layer-1 {
-  background-image: url("../images/ilu_03.png\a 		");
-  background-position: left bottom;
+  background-image: url("../images/ilu_03.png");
+  background-position: left top;
 }
 
 .layer-2 {
@@ -70,16 +70,16 @@ p {
 }
 
 .layer-3 {
-  background-image: url("../images/ilu_man.png\a 		");
+  background-image: url("../images/ilu_man.png");
   background-position: right bottom;
 }
 
 .layer-4 {
-  background-image: url("../images/ilu_01.png\a 		");
+  background-image: url("../images/ilu_01.png");
 }
 
 .layer-overlay {
-  background-image: url("../images/ilu_overlay.png\a 		");
+  background-image: url("../images/ilu_overlay.png");
 }
 
 @media only screen and (max-width: 768px) {
