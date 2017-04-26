@@ -49,7 +49,7 @@ p {
   line-height: 150%;
 }
 
-#hero, .layer {
+#hero {
   min-height: 800px;
 }
 
