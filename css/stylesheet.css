@@ -57,6 +57,7 @@ p {
 
 .layer-bg {
   background-image: url("../images/ilu_bg.jpg");
+  background-position: bottom center;
 }
 
 .layer-1 {
@@ -76,8 +77,8 @@ p {
 
 .layer-4 {
   background-image: url("../images/cat_battle_02.png");
-  background-position: left bottom;
-  width: 100%;
+  background-position: left top;
+  width: 50%;
 }
 
 .layer-5 {
