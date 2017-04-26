@@ -61,21 +61,31 @@ p {
 }
 
 .layer-1 {
-  background-image: url("../images/ilu_03.png");
+  background-image: url("../images/paper_air_plane.png");
   background-position: left top;
 }
 
 .layer-2 {
-  background-image: url("../images/ilu_02.png");
+  background-image: url("../images/clouds_spread.png");
 }
 
 .layer-3 {
-  background-image: url("../images/ilu_man.png");
-  background-position: left center;
+  background-image: url("../images/cat_battle_01.png");
+  background-position: left bottom;
 }
 
 .layer-4 {
-  background-image: url("../images/ilu_01.png");
+  background-image: url("../images/cat_battle_02.png");
+  background-position: right center;
+}
+
+.layer-5 {
+  background-image: url("../images/clouds_low.png");
+  background-position: left bottom;
+}
+
+.layer-6 {
+  background-image: url("../images/fade_line.png");
 }
 
 .layer-overlay {
