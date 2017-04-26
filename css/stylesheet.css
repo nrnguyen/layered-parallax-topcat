@@ -67,6 +67,7 @@ p {
 
 .layer-2 {
   background-image: url("../images/clouds_spread.png");
+  background-position: left top;
 }
 
 .layer-3 {
@@ -76,7 +77,8 @@ p {
 
 .layer-4 {
   background-image: url("../images/cat_battle_02.png");
-  background-position: right center;
+  background-position: left bottom;
+  width: 100%;
 }
 
 .layer-5 {
