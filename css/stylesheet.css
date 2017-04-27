@@ -1,9 +1,9 @@
 body {
   padding: 0;
   margin: 0;
-  background-color: #130d0a;
+  background-color: #ffffff;
   font-family: 'Playfair Display', serif;
-  color: #fff;
+  color: #000000;
 }
 
 #hero {
@@ -13,7 +13,7 @@ body {
 }
 
 #content {
-  background-color: #130d0a;
+  background-color: #ffffff;
 }
 
 .layer {
@@ -47,7 +47,7 @@ h1 {
 }
 
 p {
-  color: #ede0d5;
+  color: #000000;
   font-size: 18px;
   line-height: 150%;
 }
@@ -58,30 +58,33 @@ p {
 
 .layer-bg {
   background-image: url("../images/rainbow_bg.png");
-  background-position: bottom center;
-  background-size: 100%;
+  background-position: top center;
+  background-size: 100% 100%;
 }
 
 .layer-1 {
   background-image: url("../images/clouds_spread.png");
   background-position: left top;
+  background-size: 100%
 }
 
 .layer-2 {
   background-image: url("../images/paper_air_plane.png");
   background-position: left top;
+  background-size: 50%;
 }
 
 .layer-3 {
   background-image: url("../images/clouds_low.png");
   background-position: left bottom;
+  background-size: 100%;
   width: 100%;
 }
 
 .layer-4 {
   background-image: url("../images/cat_battle_01.png");
-  background-position: left bottom;
-  background-size: 70%;
+  background-position: -40% 85%;
+  background-size: 80%;
 }
 
 .layer-5 {
@@ -97,7 +100,7 @@ p {
 }
 
 .layer-7 {
-  background-image: url("../images/fade_line.png");
+  background-image: url("../images/fade_line_white.png");
 }
 
 .layer-overlay {
@@ -114,10 +117,11 @@ p {
   }
 }
 .tutorial-link {
-  color: #fff;
+  color: black;
   font-size: 18px;
   text-decoration: underline;
 }
 .tutorial-link:hover {
-  color: #ede0d5;
+  color: black;
+  text-decoration: none;
 }
